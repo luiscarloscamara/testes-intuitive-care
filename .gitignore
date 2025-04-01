@@ -1,0 +1,36 @@
+# Arquivos do sistema
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos Python
+__pycache__/
+*.pyc
+.env
+
+# Ambientes virtuais
+venv/
+.env/
+.virtualenv/
+.Python
+
+# Logs e arquivos temporários
+*.log
+*.out
+*.pid
+*.swp
+
+# Configurações de IDEs e editores
+.vscode/
+.idea/
+
+# Dependências
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Build e distribuição
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
