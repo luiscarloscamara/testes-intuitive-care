@@ -15,6 +15,11 @@ Este repositório contém os desafios técnicos do processo seletivo para a empr
     - ✅ Passos para execução do teste;
     - ✅ Pré-requisitos necessários, se aplicável.
 
+- Este repositório foi construído utilizando branches separadas para o desenvolvimento de cada teste. Ao finalizar um teste, o merge foi realizado e a branch correspondente foi deletada. No entanto, tags foram criadas para permitir a consulta da versão final de cada teste, caso necessário.
+
+## ⚠️ Importante
+- ⚠️ Certifique-se de que os **pré-requisitos** para a **execução** de cada teste sejam cumpridos. 
+
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
