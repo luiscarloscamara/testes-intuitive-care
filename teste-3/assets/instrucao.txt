@@ -1,0 +1,7 @@
+Baixe e coloque nesta pasta (assets):
+
+1. Os arquivos dos últimos 2 anos do repositório público
+https://dadosabertos.ans.gov.br/FTP/PDA/demonstracoes_contabeis/
+
+2. Os Dados cadastrais das Operadoras Ativas na ANS no formato CSV em
+https://dadosabertos.ans.gov.br/FTP/PDA/operadoras_de_plano_de_saude_ativas/
