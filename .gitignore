@@ -1,3 +1,8 @@
+# pasta usada para armazenar os arquivos do teste 3
+#assets/
+*.csv
+
+
 # Arquivos do sistema
 .DS_Store
 .AppleDouble
